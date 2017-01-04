@@ -9,7 +9,7 @@ Begin VB.Form Form1
    LinkTopic       =   "Form1"
    ScaleHeight     =   4185
    ScaleWidth      =   5190
-   StartUpPosition =   3  '����ȱʡ
+   StartUpPosition =   3  '´°¿ÚÈ±Ê¡
    Begin VB.Label Label1 
       Caption         =   "Label1"
       Height          =   615
